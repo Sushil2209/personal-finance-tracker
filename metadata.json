@@ -1,0 +1,5 @@
+{
+  "name": "AI Personal Finance Tracker",
+  "description": "An intelligent personal finance tracker that uses the Gemini API to categorize expenses from natural language, generate financial summaries, and help you manage your budgets and savings goals.",
+  "requestFramePermissions": []
+}
